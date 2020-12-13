@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Oliver",
            family = "Steele",
            role = c("aut", "cre"),
-           email = "o.steele@sussex.ac.uk")"
+           email = "o.steele@sussex.ac.uk")
 Description: A collection of custom made plots to use with ggplot (see imports).
 License: MIT + file LICENSE
 Encoding: UTF-8
