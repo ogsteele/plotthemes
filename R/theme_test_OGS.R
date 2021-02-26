@@ -21,7 +21,7 @@
 #'
 
 theme_test_OGS <- function () {
-  ggplot2::theme_classic(base_size=14, base_family="Arial") %+replace%
+  ggplot2::theme_classic(base_size=14) %+replace%
     theme( # change stuff here
       legend.position = "none", # no legend by default
       plot.title = element_text(hjust = 0.5,  # ceentered
